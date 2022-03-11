@@ -1,0 +1,44 @@
+* {
+	font-family:  fantasy;, arial; , sans-serif;
+	color: #474350;
+	text-align: center;
+	background-color: #E3DFFF;
+}
+
+body{
+	width: 960px;
+	margin: 0 auto;
+}
+nav{
+	background-color: #8d91c7;
+	margin:  10px;
+	padding: 5px;}
+
+li{
+	display: inline;
+	padding: 5px;
+}
+
+section{
+	overflow: auto;
+	height: 100%;
+}
+
+main{
+	background-color: #8d91c7;
+	padding: 10px;
+	margin: 10px;
+
+}
+	
+article {
+	background-color: #8d91c7;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+
+.mart {
+	background-color: #8d91c7;
+}
